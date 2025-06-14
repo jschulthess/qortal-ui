@@ -6,6 +6,8 @@
 
 <mark>Alternatively you can use the hosted-access Qortal Hub at https://hub.qortal.link/</mark>
 
+<mark>Or you can use hosted-access version of Qortal Go, the mobile version - https://go.qortal.link</mark>
+
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Qortal/qortal-ui?label=latest%20version)
 [![GitHub Releases](https://img.shields.io/github/downloads/Qortal/qortal-ui/latest/total)](https://github.com/Qortal/qortal-ui/releases/latest)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue)](https://opensource.org/licenses/GPL-3.0)
