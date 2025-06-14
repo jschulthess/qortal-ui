@@ -1,8 +1,10 @@
 # Qortal Project UI
 
-==
+<mark>
 The Qortal UI is deprecated (old, no longer developed) and will be no longer able to be utilized after version 5.0 release of the Qortal Core.
-==
+
+Please refer to https://github.com/Qortal/Qortal-Hub
+</mark>
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Qortal/qortal-ui?label=latest%20version)
 [![GitHub Releases](https://img.shields.io/github/downloads/Qortal/qortal-ui/latest/total)](https://github.com/Qortal/qortal-ui/releases/latest)
