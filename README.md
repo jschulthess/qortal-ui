@@ -1,8 +1,6 @@
 # Qortal Project UI
 
-<mark>
-The Qortal UI is deprecated (old, no longer developed) and will be no longer able to be utilized after version 5.0 release of the Qortal Core.
-</mark>
+<mark>The Qortal UI is deprecated (old, no longer developed) and will be no longer able to be utilized after version 5.0 release of the Qortal Core.</mark>
 
 <mark>Please refer to https://github.com/Qortal/Qortal-Hub for desktop app</mark>
 
