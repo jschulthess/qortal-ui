@@ -4,7 +4,8 @@
 The Qortal UI is deprecated (old, no longer developed) and will be no longer able to be utilized after version 5.0 release of the Qortal Core.
 </mark>
 
-<mark>Please refer to https://github.com/Qortal/Qortal-Hub</mark>
+<mark>Please refer to https://github.com/Qortal/Qortal-Hub for desktop app</mark>
+<mark>Alternatively you can use the hosted-access Qortal Hub at https://hub.qortal.link/</mark>
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Qortal/qortal-ui?label=latest%20version)
 [![GitHub Releases](https://img.shields.io/github/downloads/Qortal/qortal-ui/latest/total)](https://github.com/Qortal/qortal-ui/releases/latest)
